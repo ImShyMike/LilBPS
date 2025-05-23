@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESDA25W")(type "KiCad")(uri "${KIPRJMOD}/libraries/ESDA25W.pretty")(options "")(descr ""))
+)
