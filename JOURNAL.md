@@ -11,5 +11,5 @@ Finished the basic PD circuit with the ESP32-C3-WROOM-02 as the MCU and the STUS
 
 ![Finished PD Circuit](https://hc-cdn.hel1.your-objectstorage.com/s/v3/794e7794a15921772c06de81dd55b1bc47be9de8_screenshot_20250524_104627.png)
 
-**Total time spent: 4h**
+**Total time spent: 3h**
 
